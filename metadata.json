@@ -1,0 +1,6 @@
+{
+  "name": "Maareeyaha maaliyada",
+  "description": "Bilingual (Somali/English) personal finance, purchases, and debt management app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
